@@ -9,7 +9,7 @@
 
 3. Copy .env.example file into .env file.
 
-4. Add your database credentials.
+4. Add your database credetails.
 
 5. Run the project.
 ` php artisan serve `
@@ -32,3 +32,9 @@
 [![TYdxnnsi-Qq-WO2-EUEYu9edw.png](https://i.postimg.cc/fLPrMqmm/TYdxnnsi-Qq-WO2-EUEYu9edw.png)](https://postimg.cc/Q9pbbb6d)
 
 [![z-PD-SKJ1-Q0-Saq-A-gm0-Qg-Pg.png](https://i.postimg.cc/2SqJKDWm/z-PD-SKJ1-Q0-Saq-A-gm0-Qg-Pg.png)](https://postimg.cc/CRgmR9J6)
+
+6. Program 1
+=> [![94-I-IZ2j-R2il2ip-WKb-G6y-A.png](https://i.postimg.cc/02Zcx2mD/94-I-IZ2j-R2il2ip-WKb-G6y-A.png)](https://postimg.cc/qzh8xr1v)
+
+7. Program 2
+[![Clbtve6d-Sp-KT4e-Dbkfx-FMw.png](https://i.postimg.cc/Ghk9sHzT/Clbtve6d-Sp-KT4e-Dbkfx-FMw.png)](https://postimg.cc/ppLPwVwP)
